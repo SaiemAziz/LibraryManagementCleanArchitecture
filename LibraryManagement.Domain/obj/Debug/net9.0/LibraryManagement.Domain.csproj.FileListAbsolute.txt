@@ -1,0 +1,12 @@
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\bin\Debug\net9.0\LibraryManagement.Domain.deps.json
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\bin\Debug\net9.0\LibraryManagement.Domain.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\bin\Debug\net9.0\LibraryManagement.Domain.pdb
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.csproj.AssemblyReference.cache
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.AssemblyInfo.cs
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\refint\LibraryManagement.Domain.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.pdb
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\ref\LibraryManagement.Domain.dll

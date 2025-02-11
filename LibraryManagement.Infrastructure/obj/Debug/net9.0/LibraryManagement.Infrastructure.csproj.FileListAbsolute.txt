@@ -1,0 +1,17 @@
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Infrastructure.deps.json
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Infrastructure.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Infrastructure.pdb
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Application.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Domain.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Application.pdb
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Domain.pdb
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.csproj.AssemblyReference.cache
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.AssemblyInfoInputs.cache
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.AssemblyInfo.cs
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryM.7458E269.Up2Date
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\refint\LibraryManagement.Infrastructure.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.pdb
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Infrastructure\obj\Debug\net9.0\ref\LibraryManagement.Infrastructure.dll
