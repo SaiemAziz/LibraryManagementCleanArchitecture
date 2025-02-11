@@ -10,3 +10,4 @@ G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\Libr
 G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\refint\LibraryManagement.Domain.dll
 G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.pdb
 G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\ref\LibraryManagement.Domain.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.sourcelink.json

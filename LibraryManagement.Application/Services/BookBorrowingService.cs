@@ -1,4 +1,5 @@
 using System;
+using LibraryManagement.Application.Contracts;
 
 namespace LibraryManagement.Application.Services;
 
