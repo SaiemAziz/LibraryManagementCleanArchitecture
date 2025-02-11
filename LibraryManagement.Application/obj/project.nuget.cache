@@ -1,13 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "1mthJVi7PMc=",
-  "success": true,
+  "dgSpecHash": "NbeBnBUR+EI=",
+  "success": false,
   "projectFilePath": "G:\\Dotnet\\GeminiCleanArchitecture\\LibraryManagement.Application\\LibraryManagement.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sayem\\.nuget\\packages\\automapper\\1.1.0.118\\automapper.1.1.0.118.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\csharpfunctionalextensions\\3.4.3\\csharpfunctionalextensions.3.4.3.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\fluentvalidation\\8.2.2\\fluentvalidation.8.2.2.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\sayem\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\sayem\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\sayem\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
-    "C:\\Users\\sayem\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\sayem\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\sayem\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": [
     {
@@ -16,6 +26,34 @@
       "warningLevel": 1,
       "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.4.1 was resolved.",
       "libraryId": "MediatR",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoMapper 1.1.0.118' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: AutoMapper from 12.0.1 to 1.1.0.118. Reference the package directly from the project to select a different version. \r\n LibraryManagement.Application -> AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 -> AutoMapper (= 12.0.1) \r\n LibraryManagement.Application -> AutoMapper (>= 1.1.0.118)",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: FluentValidation from 11.5.1 to 8.2.2. Reference the package directly from the project to select a different version. \r\n LibraryManagement.Application -> FluentValidation.AspNetCore 11.3.0 -> FluentValidation (>= 11.5.1) \r\n LibraryManagement.Application -> FluentValidation (>= 8.2.2)",
+      "libraryId": "FluentValidation",
       "targetGraphs": [
         "net9.0"
       ]
