@@ -35,12 +35,7 @@ public class Loan(Guid memberId, LoanDate loanDate)
     // Domain Behavior - Example: Return a loan item (book)
     public void ReturnLoanItem(Guid bookId, LoanDate actualReturnDate)
     {
-        var loanItem = _loanItems.FirstOrDefault(item => item.BookId == bookId);
-        if (loanItem == null)
-        {
-            throw new InvalidOperationException($"Book with ID '{bookId}' is not part of this loan.");
-        }
-
+        var loanItem = _loanItems.FirstOrDefault(item => item.BookId == bookId) ?? throw new InvalidOperationException($"Book with ID '{bookId}' is not part of this loan.");
         if (Status != LoanStatus.Active)
         {
             throw new InvalidOperationException("Cannot return items for a closed loan.");

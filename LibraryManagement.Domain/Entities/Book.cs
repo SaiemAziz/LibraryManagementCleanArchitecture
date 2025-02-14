@@ -11,7 +11,7 @@ public class Book(string isbn, string title, Guid authorId, int publicationYear,
     public string ISBN { get; private set; } = isbn;
     public string Title { get; private set; } = title;
     public Guid AuthorId { get; private set; } = authorId;
-    public Author Author { get; private set; } = default!; // Navigation property
+    public Author Author { get; set; } = default!; // Navigation property
     public int PublicationYear { get; private set; } = publicationYear;
     public Genre Genre { get; private set; } = genre;
     public bool IsAvailable { get; private set; } = true;

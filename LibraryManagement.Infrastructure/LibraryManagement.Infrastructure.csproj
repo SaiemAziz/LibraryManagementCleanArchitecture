@@ -10,4 +10,21 @@
     <ProjectReference Include="..\LibraryManagement.Application\LibraryManagement.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="FileStorage\" />
+    <Folder Include="Identity\" />
+    <Folder Include="MessageBus\" />
+    <Folder Include="Notifications\" />
+    <Folder Include="Notifications\Email\" />
+    <Folder Include="Notifications\SMS\" />
+    <Folder Include="Payment\" />
+    <Folder Include="QueueStorage\" />
+    <Folder Include="ThirdParty\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.3" />
+  </ItemGroup>
+
 </Project>
