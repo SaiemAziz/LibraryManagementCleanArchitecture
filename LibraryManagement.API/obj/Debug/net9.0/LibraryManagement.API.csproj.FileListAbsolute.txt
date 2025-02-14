@@ -56,3 +56,10 @@ G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\Newtons
 G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
 G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\System.Security.Permissions.dll
 G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\obj\Debug\net9.0\LibraryManagement.API.sourcelink.json
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\Npgsql.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\LibraryManagement.Infrastructure.dll
+G:\Dotnet\GeminiCleanArchitecture\LibraryManagement.API\bin\Debug\net9.0\LibraryManagement.Infrastructure.pdb

@@ -12,10 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LibraryManagement.Application\LibraryManagement.Application.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\LibraryManagement.Infrastructure\LibraryManagement.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
